@@ -88,7 +88,7 @@ const Footer = () => {
             <a href="https://bluluma.com" target="_blank" rel="noopener noreferrer" className="hover:text-primary-foreground/80 transition-colors">Bluluma</a>
             {" "}| Powered by{" "}
             <a href="https://swiftlift.app" target="_blank" rel="noopener noreferrer" className="hover:text-primary-foreground/80 transition-colors">SwiftLift</a>
-          </p>
+          {" "}<span className="block mt-1 opacity-80" data-concept-note>Design concept for portfolio purposes only. Not the official website of Glow Dental.</span></p>
         </div>
       </div>
     </footer>
